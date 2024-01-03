@@ -1,5 +1,5 @@
-# 👋 Hi! I'm Mikołaj
-#### I am 17 years old really enjoy programming, riding motorcycles, gaming and creating wonderful things for the games I play.
+# 👋 Hi! I'm Dawid
+#### I am 21 years old and really enjoy programming.
 
 ![Zielona Góra](https://img.shields.io/badge/-%20%F0%9F%8F%A1%20Wroclaw-success?style=for-the-badge)
 ![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
@@ -15,21 +15,19 @@
 ## 💾 Database technologies I know
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 ## 📲 Other stuff I'm interested in
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="unreal engine" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 ## 😝 About Me
 
 - My name is __Dawid Brzeski__ and I'm a programming student that likes to code and play games in my free time. 🔫 💡
-
-✨ _My main goal is to create something inspiring_ ✨
 
 ## Curently learning
 - Deep Learning
