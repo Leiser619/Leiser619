@@ -15,13 +15,13 @@
 ## 💾 Database technologies I know
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.postgresql.org/media/img/about/press/elephant.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 ## 📲 Other stuff I'm interested in
 <p>
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.svg" alt="unreal engine" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="unreal engine" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
@@ -30,6 +30,10 @@
 - My name is __Dawid Brzeski__ and I'm a programming student that likes to code and play games in my free time. 🔫 💡
 
 ✨ _My main goal is to create something inspiring_ ✨
+
+## Curently learning
+- Deep Learning
+- TensorFlow 
 
 ## 👅 Languages
 ![](https://img.shields.io/badge/Polish-Native-red)
