@@ -29,7 +29,7 @@
 
 - My name is __Dawid Brzeski__ and I'm a programming student that likes to code and play games in my free time. 🔫 💡
 
-## Curently learning
+## Currently learning
 - Deep Learning
 - TensorFlow 
 
