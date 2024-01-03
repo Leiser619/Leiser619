@@ -3,7 +3,7 @@
 
 ![Zielona Góra](https://img.shields.io/badge/-%20%F0%9F%8F%A1%20Wroclaw-success?style=for-the-badge)
 ![Uniwersytet Zielonogórski](https://img.shields.io/badge/-%20🍆%20Uniwersytet%20Zielonogorksi%20-%23038cfc?style=for-the-badge)
-![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Computer%20Science%20(3/5%20year)%20-blueviolet?style=for-the-badge)
+![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Computer%20Science%20-blueviolet?style=for-the-badge)
 
 ## 🔮 The languages I use
 <p>
