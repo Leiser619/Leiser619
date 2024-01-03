@@ -2,7 +2,7 @@
 #### I am 21 years old and really enjoy programming.
 
 ![Zielona Góra](https://img.shields.io/badge/-%20%F0%9F%8F%A1%20Wroclaw-success?style=for-the-badge)
-![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
+![Uniwersytet Zielonogórski](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
 ![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(3/5%20year)%20-blueviolet?style=for-the-badge)
 
 ## 🔮 The languages I use
